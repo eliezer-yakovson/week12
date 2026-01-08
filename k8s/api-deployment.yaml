@@ -20,7 +20,7 @@ spec:
         env:
         - name: POSTGRES_HOST
           value: "postgres-svc"
-        - name: POSTGRES_PORT
+        - name: "postgres-0.postgres-svc"
           value: "5432"
         - name: POSTGRES_DB
           value: "coordinates_db"
