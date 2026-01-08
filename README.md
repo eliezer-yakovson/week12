@@ -1,3 +1,9 @@
+#Details
+##eliezer yakovson
+## 206568107
+##negev
+
+
 # Coordinates API - Kubernetes Deployment
 
 A FastAPI application that manages geographic coordinates with PostgreSQL backend, deployed using Kubernetes StatefulSet.
